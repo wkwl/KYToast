@@ -8,8 +8,9 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KYToast'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'ios公有库'
+  
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
