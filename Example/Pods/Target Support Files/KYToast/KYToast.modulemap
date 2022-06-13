@@ -1,0 +1,6 @@
+framework module KYToast {
+  umbrella header "KYToast-umbrella.h"
+
+  export *
+  module * { export * }
+}
