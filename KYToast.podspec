@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KYToast'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'ios公有库'
   
 
@@ -37,7 +37,7 @@ TODO: Add long description of the pod here.
   #   'KYToast' => ['KYToast/Assets/*.png']
   # }
 
-   s.public_header_files = 'Pod/Classes/**/*.h'
+#   s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
    s.dependency 'Masonry', '~> 1.1.0'
 end
